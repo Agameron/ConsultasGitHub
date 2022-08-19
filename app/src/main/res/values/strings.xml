@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConsultasGitHub</string>
+    <string name="repositorios">Repositorios</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="search">Search...</string>
+</resources>
