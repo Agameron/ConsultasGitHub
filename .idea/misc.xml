@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/itens_preview.xml" value="0.3625" />
+        <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/pull_item_preview.xml" value="0.5" />
+        <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/pull_request_frag.xml" value="0.3625" />
         <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/pullrequest_frag.xml" value="0.3614583333333333" />
         <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/repositories_frag.xml" value="0.3614583333333333" />
+        <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/repositories_itens_preview.xml" value="0.5" />
         <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/research_frag.xml" value="0.3614583333333333" />
         <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/savedrepositories_frag.xml" value="0.3625" />
         <entry key="..\:/Projetos Android/ConsultasGitHub/app/src/main/res/layout/search_frag.xml" value="0.3625" />

@@ -4,4 +4,16 @@
     <string name="pesquisar">Pesquisar</string>
     <string name="favoritos">Favoritos</string>
     <string name="search">Search...</string>
+    <string name="username_label">Username:</string>
+    <string name="pulldata_label">PullDataLabel</string>
+    <string name="userimagelabel">UserImage</string>
+    <string name="pulldatalabel">Data do PR</string>
+    <string name="usernamelabel">Nome do autor</string>
+    <string name="userimage_label">Foto do autor</string>
+    <string name="tvbodylabel">Corpo do PR</string>
+    <string name="tvpulltitlelabel">Título do PR</string>
+    <string name="tvtitlelabel">Nome do repositório</string>
+    <string name="tvdescriptionlabel">Descrição do Repositório</string>
+    <string name="tvstarslabel">Número de Stars</string>
+    <string name="tvforkslabel">Número de Forks</string>
 </resources>

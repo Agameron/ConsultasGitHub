@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/repositoriesFragment"
-        android:name="com.example.consultasgithub.ui.fragments.RepositoriesFragment"
+        android:name="com.example.consultasgithub.ui.gitrepositories.RepositoriesFragment"
         android:label="RepositoriesFragment" >
         <action
             android:id="@+id/action_repositoriesFragment_to_pullRequestsFragment"
@@ -18,8 +18,12 @@
     </fragment>
     <fragment
         android:id="@+id/pullRequestsFragment"
-        android:name="com.example.consultasgithub.ui.fragments.PullRequestsFragment"
-        android:label="PullRequestsFragment" />
+        android:name="com.example.consultasgithub.ui.gitpulls.PullRequestsFragment"
+        android:label="PullRequestsFragment" >
+        <argument
+            android:name="repo"
+            app:argType="com.example.consultasgithub.models.RepositoryItem" />
+    </fragment>
     <fragment
         android:id="@+id/savedRepositoriesFragment"
         android:name="com.example.consultasgithub.ui.fragments.SavedRepositoriesFragment"
