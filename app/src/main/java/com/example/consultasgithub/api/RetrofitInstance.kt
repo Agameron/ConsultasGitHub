@@ -1,7 +1,6 @@
 package com.example.consultasgithub.api
 
 import com.example.consultasgithub.util.Constants.Companion.BASE_URL
-import okhttp3.Credentials
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
@@ -18,13 +17,6 @@ class RetrofitInstance {
                     proceed(
                         request()
                             .newBuilder()
-                            .addHeader(
-                                "Authorization",
-                                Credentials.basic(
-                                    "agameron",
-                                    "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"
-                                )
-                            )
                             .addHeader("Accept", "application/vnd.github.v3+json")
                             .build()
                     )
